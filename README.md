@@ -15,3 +15,8 @@ Python入门简单，选用Python作为首选机器学习编程语言。
 - [AI For Everyone_Andrew Ng](https://www.coursera.org/learn/ai-for-everyone)
 - [Advanced Learning Algorithms_Andrew Ng](https://www.coursera.org/learn/advanced-learning-algorithms)
 - [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization_Andrew Ng](https://www.coursera.org/learn/deep-neural-network)
+## 1.3 ToolKit
+- [Anaconda](https://github.com/ContinuumIO)
+- [Scikit-learn](https://github.com/scikit-learn/scikit-learn)
+- [Keras](https://github.com/keras-team/keras)
+- [Pytroch](https://github.com/pytorch/pytorch)
