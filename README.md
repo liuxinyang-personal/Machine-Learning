@@ -25,7 +25,7 @@ Python入门简单，选用Python作为首选机器学习编程语言。
 **教程：**
 - [Introduction to Machine Learning with scikit-learn](https://github.com/justmarkham/scikit-learn-videos)
 - [Scikit-learn Document (中文翻译版)](https://github.com/apachecn/sklearn-doc-zh)
-> Tips:本中文文档是github上机器学习爱好者根据Scikit-learn Document官方发布文件自行翻译的，并不是官方发布。
+> Tips：上述中文文档是 github 上机器学习爱好者根据 Scikit-learn Document 官方发布文件自行翻译的，并不是官方发布。
 ### 1.3.3 Pytorch
 **教程：**
 - [深度学习框架PyTorch：入门与实践](https://github.com/chenyuntc/pytorch-book)
