@@ -20,3 +20,9 @@ Python入门简单，选用Python作为首选机器学习编程语言。
 - [Scikit-learn](https://github.com/scikit-learn/scikit-learn)
 - [Keras](https://github.com/keras-team/keras)
 - [Pytorch](https://github.com/pytorch/pytorch)
+### 1.3.1 Anaconda
+### 1.3.2 Scikit-learn
+### 1.3.3 Pytorch
+**教程：**
+- [深度学习框架PyTorch：入门与实践](https://github.com/chenyuntc/pytorch-book)
+- [AI实战](https://github.com/MLEveryday/practicalAI-cn)
