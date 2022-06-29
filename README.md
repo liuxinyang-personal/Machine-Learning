@@ -4,7 +4,11 @@
 Python入门简单，选用Python作为首选机器学习编程语言。
 
 **快速入门参考书：**
-《Python编程 : 从入门到实践》（中文版）[配套课程链接](https://www.bilibili.com/video/BV19t411m7uU?spm_id_from=333.337.search-card.all.click&vd_source=cb67348b8fe5b65cd9ef45aa294d3530)&[随书配套资源](https://github.com/ehmatthes/pcc)
+
+- 《Python编程 : 从入门到实践》（中文版）[配套课程链接](https://www.bilibili.com/video/BV19t411m7uU?spm_id_from=333.337.search-card.all.click&vd_source=cb67348b8fe5b65cd9ef45aa294d3530)&[随书配套资源](https://github.com/ehmatthes/pcc)
+- [LearnPython](https://learnpython.org/)
+- [Python官方教程_中文](https://docs.python.org/zh-cn/3/tutorial/index.html)
+- [Python 标准库_中文](https://docs.python.org/3/library/index.html)
 ## 1.2 机器学习理论基础
 **线上课程：**
 - [台湾大学李宏毅_机器学习](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html)
@@ -33,9 +37,13 @@ Python入门简单，选用Python作为首选机器学习编程语言。
 ## 1.4 机器学习实践
 **基础教程：**
 - [Machine Learning Tutorial for Beginners](https://www.kaggle.com/code/kanncaa1/machine-learning-tutorial-for-beginners/notebook)
-# 2 Data Visualization
-## 2.1 Matplotlib
-## 2.2 Seaborn
-### 2.2.1 入门教程
+# 2 Data Science
+## 2.1 数据处理工具
+### 2.1.1 Pandas
+- [User Guide](https://pandas.pydata.org/docs/user_guide/index.html)
+# 3 Data Visualization
+## 3.1 Matplotlib
+## 3.2 Seaborn
+### 3.2.1 入门教程
 - [Seaborn Tutorial for Beginners](https://www.kaggle.com/code/kanncaa1/seaborn-tutorial-for-beginners?scriptVersionId=27768785)
 
