@@ -39,8 +39,9 @@ Python入门简单，选用Python作为首选机器学习编程语言。
 - [Machine Learning Tutorial for Beginners](https://www.kaggle.com/code/kanncaa1/machine-learning-tutorial-for-beginners/notebook)
 # 2 Data Science
 ## 2.1 数据处理工具
-### 2.1.1 Pandas
+### 2.1.1 Pandas & Numpy
 - [User Guide](https://pandas.pydata.org/docs/user_guide/index.html)
+- [Python for Data Analysis 2nd Chinese](https://github.com/iamseancheney/python_for_data_analysis_2nd_chinese_version)
 # 3 Data Visualization
 ## 3.1 Matplotlib
 ## 3.2 Seaborn
