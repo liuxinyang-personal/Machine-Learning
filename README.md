@@ -41,7 +41,7 @@ Python入门简单，选用Python作为首选机器学习编程语言。
 ## 2.1 数据处理工具
 ### 2.1.1 Pandas & Numpy
 - [User Guide](https://pandas.pydata.org/docs/user_guide/index.html)
-- [Python for Data Analysis 2nd Chinese](https://github.com/iamseancheney/python_for_data_analysis_2nd_chinese_version)[随书资源](https://github.com/wesm/pydata-book) [随书资源_中文](https://github.com/BrambleXu/pydata-notebook) [作者主页](https://wesmckinney.com/)
+- [Python for Data Analysis 2nd Chinese](https://github.com/iamseancheney/python_for_data_analysis_2nd_chinese_version)[随书资源](https://github.com/wesm/pydata-book)、[随书资源_中文](https://github.com/BrambleXu/pydata-notebook)、[作者主页](https://wesmckinney.com/)
 >中文翻译版本只是出于作者个人的兴趣，为了尊重版权和国内译者的劳动，这个笔记只保留一部分翻译内容，可以用于了解Numpy和Pandas。
 # 3 Data Visualization
 ## 3.1 Matplotlib
