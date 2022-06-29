@@ -30,6 +30,9 @@ Python入门简单，选用Python作为首选机器学习编程语言。
 **教程：**
 - [深度学习框架PyTorch：入门与实践](https://github.com/chenyuntc/pytorch-book)
 - [AI实战](https://github.com/MLEveryday/practicalAI-cn)
+## 1.4 机器学习实践
+**基础教程：**
+- [Machine Learning Tutorial for Beginners](https://www.kaggle.com/code/kanncaa1/machine-learning-tutorial-for-beginners/notebook)
 # 2 Data Visualization
 ## 2.1 Matplotlib
 ## 2.2 Seaborn
